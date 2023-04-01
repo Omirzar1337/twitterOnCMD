@@ -1,3 +1,7 @@
+######################################################
+##### AIXÓ HA ESTAT PROGRAMAT AMB UN GOS A SOBRE #####
+######################################################
+
 import tweepy
 import textwrap
 from prettytable import PrettyTable
